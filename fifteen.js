@@ -44,7 +44,7 @@ function shuffle() {
     function win()
 {
 	var body = document.getElementsByTagName('body');
-	body[0].style.backgroundImage = 'url("winner.jpg")';
+	body[0].style.backgroundImage = 'url("http://www.clipartkid.com/images/20/winner2-2rdvKR-clipart.jpg")';
 	alert('You Are A Winner!!');
 }
 
