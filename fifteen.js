@@ -44,7 +44,7 @@ function shuffle() {
     function win()
 {
 	var body = document.getElementsByTagName('body');
-	body[0].style.backgroundImage = 'url(" C:/Users/chevaughn/Desktop/meh/winner.jpg")';
+	body[0].style.backgroundImage = 'url("winner.jpg")';
 	alert('You Are A Winner!!');
 }
 
